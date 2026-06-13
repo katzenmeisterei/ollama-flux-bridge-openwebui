@@ -1,7 +1,7 @@
 """
 title: Ollama & Flux Bridge
 author: LocalDev
-author_url: https://github.com/yourusername
+author_url: https://github.com/katzenmeisterei
 version: 1.0.0
 description: Bridges Open WebUI with Ollama's experimental Flux image models (like x/flux2-klein:4b). Disables streaming to guarantee rock-solid stability against Docker network timeouts and automatically parses the correct image payloads.
 """
